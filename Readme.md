@@ -36,8 +36,6 @@
 - [ ] Tercera Tarea
 
 ## ENLACES
-Aquí tienes información sobre el concepto [Dunning-Krugger][1]. Por otro lado,
-también tienes información sobre [el principio de Peter][2].
+[video de baityBait][1]
 
-[1]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
-[2]: https://en.wikipedia.org/wiki/Peter_Principle "El principio de Peter"
+[1]: https://www.youtube.com/watch?v=2sS5arfZjJA
