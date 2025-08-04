@@ -32,5 +32,5 @@
 
 ## TAREAS
 - [x] Primera Tarea
-- [] Segunda Tarea
-- [] Tercera Tarea
+- [ ] Segunda Tarea
+- [ ] Tercera Tarea
