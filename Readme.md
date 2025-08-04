@@ -10,9 +10,16 @@
 #### Subtitular 3
 ~~TACHADO~~
 
-## LISTAS
+## LISTAS CON -
 - Primer elemento de la lista
 - Segundo elemento de la lista
     - Sub-elemento uno
     - Sub-elemento dos
     - sub-elemento tres
+
+## LISTAS CON *
+* Primer elemento de la lista
+* Segundo elemento de la lista
+    * Sub-Elemento uno
+    * Sub-Elemento dos
+    * Sub-Elemento tres
