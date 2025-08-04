@@ -7,9 +7,12 @@
 ### Subtitular 2
 ***Fragmento de texto 3***
 
-a ver como anda
-
 #### Subtitular 3
 ~~TACHADO~~
 
 ## LISTAS
+- Primer elemento de la lista
+- Segundo elemento de la lista
+    - Sub-elemento uno
+    - Sub-elemento dos
+    -sub-elemento tres
