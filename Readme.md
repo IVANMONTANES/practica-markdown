@@ -1,5 +1,5 @@
 ﻿# TITULAR
-Fragmento de texto
+**Fragmento de texto**
 
 ## Subtitular
 Fragmento de texto 2
